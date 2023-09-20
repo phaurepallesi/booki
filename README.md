@@ -1,2 +1,2 @@
 # booki
-Booki : Projet 2 parcours "Intégrateurr web" chez Openclassrooms
+Booki : Projet 3 parcours "Intégrateurr web" chez Openclassrooms
